@@ -1,0 +1,51 @@
+GROUPDNA - WHATSAPP CHAT ANALYZER
+==================================================
+
+GROUP OVERVIEW
+Total Messages: 3174
+Total Participants: 6
+Most Active Participant: Rahul
+
+ACTIVITY ANALYSIS
+Busiest Date: 2024-05-04
+Busiest Weekday: Wednesday
+Busiest Hour: 18
+
+TOP 10 WORDS
+how : 321
+guys : 318
+today : 292
+about : 274
+hai : 268
+his : 217
+everyone : 203
+which : 202
+telling : 179
+from : 174
+
+RESPONSE TIME
+Priya : 41.99 minutes
+Rahul : 34.95 minutes
+Karan : 36.62 minutes
+Neha : 39.45 minutes
+Aman : 55.36 minutes
+Vikas : 46.3 minutes
+
+LONGEST SILENT STREAK
+Rahul : 24.67 hours
+Priya : 15.78 hours
+Karan : 20.7 hours
+Neha : 28.37 hours
+Aman : 21.85 hours
+Vikas : 292.63 hours
+
+PERSONALITY ARCHETYPES
+Rahul : Active Chatter
+Priya : Regular Member
+Karan : Regular Member
+Neha : Active Chatter
+Aman : Regular Member
+Vikas : Silent Observer
+
+==================================================
+END OF GROUPDNA REPORT
